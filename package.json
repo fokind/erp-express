@@ -1,0 +1,23 @@
+{
+  "name": "erp-express",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fokind/erp-express.git"
+  },
+  "author": "Dmitry Fokin <fokind1@yandex.ru> (http://github.com/fokind)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fokind/erp-express/issues"
+  },
+  "homepage": "https://github.com/fokind/erp-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
